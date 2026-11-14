@@ -65,6 +65,6 @@ npm run audit:public
 npm pack --dry-run
 ```
 
-Tests negotiate real MCP stdio calls, build scenes and inspect exported node/connector XML, escaping, duplicates, references and size limits. Registry metadata is in `server.json`; prepared metadata does not establish publication.
+Tests negotiate real MCP stdio calls, build scenes and inspect exported node/connector XML, escaping, duplicates, references and size limits. Published in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.j-river%2Feditableimage) as `io.github.j-river/editableimage`, version `0.1.0`. Public metadata links directly to [EditableImage](https://editableimage.com/) and the npm package. Source metadata is in `server.json`.
 
 MIT. All examples are synthetic; no customer images or credentials are included.
