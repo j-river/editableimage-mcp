@@ -1,0 +1,6 @@
+{
+  "note": "Public source snapshot bundled with esbuild; commercial application code is not included.",
+  "license": "MIT",
+  "commit": "25374a098e2cdbf341b4cdfd87022e558a8867f7",
+  "repository": "https://github.com/j-river/scene-to-drawio"
+}
